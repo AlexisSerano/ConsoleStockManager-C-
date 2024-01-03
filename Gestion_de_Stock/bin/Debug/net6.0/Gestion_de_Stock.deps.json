@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gestion_de_Stock/1.0.0": {
+        "dependencies": {
+          "DataBaseStock": "1.0.0"
+        },
+        "runtime": {
+          "Gestion_de_Stock.dll": {}
+        }
+      },
+      "DataBaseStock/1.0.0": {
+        "runtime": {
+          "DataBaseStock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestion_de_Stock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataBaseStock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
